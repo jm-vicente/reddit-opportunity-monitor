@@ -31,7 +31,11 @@ Scheduled execution · workflow branching · data extraction · XML parsing · d
 
 ## My role
 
-_[Before publishing, describe only the stages you personally designed, developed, maintained or tested. Avoid claiming sole ownership if this was collaborative.]_
+- Designed the overall automation workflow, including process logic, data handling, and system integrations.
+- Led the testing process, coordinating with interns who supported quality assurance (QA), test execution, and issue identification.
+- Conducted testing and validation to ensure the workflow functioned as intended.
+- Implemented workflow improvements based on testing feedback and operational requirements.
+- Managed ongoing maintenance, troubleshooting, and optimization to support workflow reliability.
 
 ## Confidentiality & scope
 
